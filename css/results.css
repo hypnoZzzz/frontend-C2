@@ -1,0 +1,27 @@
+body {
+	background: aliceblue;
+}
+
+header {
+	text-align: center;
+}
+
+.progress-bar {
+	height: 30px;
+}
+
+.progressCats {
+	color: white;
+	text-align: center;
+}
+
+.progressParrots {
+	color: white;
+	text-align: center;
+}
+
+.progressDogs{
+	color: white;
+	text-align: center;
+	
+}
